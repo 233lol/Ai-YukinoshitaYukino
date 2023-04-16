@@ -20,4 +20,5 @@
 |雪之下雪乃|[Archetto的LORA模型](https://civitai.com/models/10031/yukinoshita-yukino)|非本项目作者|
 ### 其他
 |角色|文件|备注|
+|---|---|---|
 |雪之下雪乃|[AI生成图和音乐](https://github.com/233lol/Ai-YukinoshitaYukino/releases/tag/YukinoshitaYukino-misc)|更新中|
