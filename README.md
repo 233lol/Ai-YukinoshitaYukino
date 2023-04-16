@@ -13,6 +13,7 @@
 |角色|模型|备注|
 |---|---|---|
 |雪之下雪乃|[so-vits-svc-4.0模型](https://github.com/233lol/Ai-YukinoshitaYukino/releases/tag/YukinoshitaYukino-VoiceModel-so-vits-svc4-v1)|44k|
+|雪之下雪乃|[RVC模型](https://github.com/233lol/Ai-YukinoshitaYukino/releases/tag/YukinoshitaYukino-VoiceModel-rvc-v1)|48k|
 ### Diffusers模型
 |角色|模型|备注|
 |---|---|---|
